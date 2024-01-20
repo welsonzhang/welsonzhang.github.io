@@ -1,0 +1,12 @@
+future: true
+permalink: /:title/
+url: http://welsonzhang.github.io
+name: welsonzhang
+author: welsonzhang
+qq: 942469560
+email: 942469560@qq.com
+github: welsonzhang
+paginate: 20
+highlighter: rouge
+truncate: true
+about: "welsonzhang"
